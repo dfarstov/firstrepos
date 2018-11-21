@@ -44,6 +44,7 @@
             this.loginButton.TabIndex = 0;
             this.loginButton.Text = "Вход";
             this.loginButton.UseVisualStyleBackColor = true;
+            this.loginButton.Click += new System.EventHandler(this.loginButton_Click);
             // 
             // registButton
             // 

@@ -16,5 +16,15 @@ namespace TSPPLabProject
         {
             InitializeComponent();
         }
+
+        private void loginButton_Click(object sender, EventArgs e)
+        {
+            sayHello();
+        }
+
+        void sayHello()
+        {
+            MessageBox.Show("Привет)");
+        }
     }
 }

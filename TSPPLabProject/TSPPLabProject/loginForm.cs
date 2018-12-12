@@ -26,5 +26,10 @@ namespace TSPPLabProject
         {
             MessageBox.Show("Привет)");
         }
+
+        void functionToRefactor()
+        {
+
+        }
     }
 }

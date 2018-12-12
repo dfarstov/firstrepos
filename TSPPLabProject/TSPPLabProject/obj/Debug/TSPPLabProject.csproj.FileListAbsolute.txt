@@ -1,0 +1,11 @@
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\bin\Debug\TSPPLabProject.exe.config
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\bin\Debug\TSPPLabProject.exe
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\bin\Debug\TSPPLabProject.pdb
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.csprojAssemblyReference.cache
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.adminForm.resources
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.loginForm.resources
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.Properties.Resources.resources
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.csproj.GenerateResource.cache
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.csproj.CoreCompileInputs.cache
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.exe
+C:\Users\Denis\firstrepos\TSPPLabProject\TSPPLabProject\obj\Debug\TSPPLabProject.pdb
